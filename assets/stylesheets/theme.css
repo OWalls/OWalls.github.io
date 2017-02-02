@@ -1,5 +1,5 @@
 body {
-  background-color: #eeeeee;
+  background-color: #9aa6ba;
   color: #030303;
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ body {
   text-align: center;
 }
 .content {
-  background-color: #47187c;
+  background-color: #b68fe0;
   color: #eeeeee;
   display: flex;
   padding: 15px;
